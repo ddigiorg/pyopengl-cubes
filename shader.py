@@ -47,7 +47,7 @@ void main()
 def compile_shader(name):
 	global VertexShader, FragmentShader
 	if name == "VS":
-	        source = VertexShader
+		source = VertexShader
 		shader_type = GL_VERTEX_SHADER
 	elif name == "FS":
 		source = FragmentShader
