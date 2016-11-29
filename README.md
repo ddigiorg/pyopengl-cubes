@@ -1,4 +1,4 @@
-# OpenGL-Cubes
+# PyOpenGL-Cubes
 
 - Archlinux
 - python 3.5.1
